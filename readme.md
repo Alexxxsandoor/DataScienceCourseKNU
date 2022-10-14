@@ -1,0 +1,3 @@
+# Verstukov Olekdandr
+
+## DataScienceCourseKNU
